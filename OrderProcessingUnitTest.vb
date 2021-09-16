@@ -1,5 +1,5 @@
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
-Imports OrderProcessingApplication
+Imports OrderProcessingApplication 
 
 Namespace OrderProcessingUnitTest
     <TestClass>
