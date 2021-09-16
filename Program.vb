@@ -1,6 +1,6 @@
 Imports System
 Imports System.Collections.Generic
-Imports OrderProcessingApplication.Program
+Imports OrderProcessingApplication.Program 
 
 Namespace OrderProcessingApplication
     Public MustInherit Class Product
